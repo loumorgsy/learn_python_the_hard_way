@@ -1,0 +1,22 @@
+print : print basically prints to the terminal with values or strings.
+"" : DOUBLE QUOTES : this defines a string
+'' : SINGLE QUOTES : this also defines a string
+, : COMMA : seperates values and strings and arguments
+%s : STRING FORMAT :  Inputs the string or value defined elsewhere into a string
+%d : STRING FORMAT : inputs a decimal or integer value into a string
+%r : STRING FORMAT : inputs the raw value/string into the string
+% : STRING FORMAT : is used at the end of a string where you declare what is to be added to the string
+from : IMPORTS : selects the library to import from
+import : IMPORTS : selects the module to import
+raw_input : USER INPUT : allows the user to input a value or string
+open() : file : opens a file
+close() : file : closes a file
+truncate() : file : deletes contents of file
+\n : new lines : creates a new line
+.write() : file : allows you to write in a file
+.read() : file : opens a file in read mode
+'w' : file : opens a file in write mode
+len : length : finds length of a target
+: : function : comes at the end of a first line of a function
+.seek() : file : allows you to move within a file to choose when to read / write
+def : function : defines a function name
